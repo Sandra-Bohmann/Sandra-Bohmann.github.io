@@ -4,8 +4,9 @@ plugins:
 
 # Site metadata - please add or merge your existing settings below
 # If you already have a _config.yml, merge these lines instead of replacing.
-title: "Your Site Title"
-email: "your-email@example.com"
-description: "A description of your site"
+title: "Sandra Bohmann"
+email: "Sandra.Bohmann@lmu.de"
+description: "Academic Website"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://Sandra-Bohmann.github.io"
+
