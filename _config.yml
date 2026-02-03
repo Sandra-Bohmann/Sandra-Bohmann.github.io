@@ -10,3 +10,10 @@ description: "Academic Website"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://Sandra-Bohmann.github.io"
 
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about/"
+  - title: "Blog"
+    url: "/blog/"   # change to where posts are shown in this theme
