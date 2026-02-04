@@ -17,3 +17,6 @@ navigation:
     url: "/about/"
   - title: "Blog"
     url: "/blog/"   # change to where posts are shown in this theme
+
+paginate: 5  # amount of posts to show per page
+paginate_path: /page:num/
